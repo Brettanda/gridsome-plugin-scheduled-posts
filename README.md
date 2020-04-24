@@ -1,13 +1,13 @@
-# @gridsome/plugin-scheduled-posts
+# @brettanda/gridsome-plugin-scheduled-posts
 
 This plugin hides posts that have a post date in the future.
 
 ## Install
 
 ```bash
-yarn add @gridsome/plugin-scheduled-posts
+yarn add @brettanda/gridsome-plugin-scheduled-posts
 #or
-npm install @gridsome/plugin-scheduled-posts
+npm install @brettanda/gridsome-plugin-scheduled-posts
 ```
 
 ## Usage

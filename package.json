@@ -1,5 +1,5 @@
 {
-  "name": "@gridsome/plugin-scheduled-posts",
+  "name": "@brettanda/gridsome-plugin-scheduled-posts",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Brett Anda",
