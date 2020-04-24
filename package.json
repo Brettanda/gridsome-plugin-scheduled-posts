@@ -11,5 +11,8 @@
     "gridsome-plugin",
     "schedule",
     "posts"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
