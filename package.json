@@ -3,17 +3,23 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Brett Anda",
-  "homepage": "https://github.com/Brettanda/plugin-scheduled-posts#readme",
-  "repository": "https://github.com/Brettanda/plugin-scheduled-posts",
+  "homepage": "https://github.com/Brettanda/gridsome-plugin-scheduled-posts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brettanda/gridsome-plugin-scheduled-posts.git"
+  },
   "license": "MIT",
   "keywords": [
     "gridsome",
     "gridsome-plugin",
-    "schedule",
-    "posts"
+    "scheduled posts"
   ],
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
+  },
+  "description": "This plugin hides posts that have a post date in the future.",
+  "bugs": {
+    "url": "https://github.com/Brettanda/gridsome-plugin-scheduled-posts/issues"
   }
 }

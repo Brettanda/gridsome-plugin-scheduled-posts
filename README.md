@@ -18,7 +18,7 @@ You will have to make sure the the `timeZoneOffset` is correct for your setup.
 module.exports = {
 	plugins: [
 		{
-			use: "@gridsome/plugin-scheduled-posts",
+			use: "@brettanda/gridsome-plugin-scheduled-posts",
 			options: {
 				typeName: "Post",
 				timeZoneOffset: "-6"
