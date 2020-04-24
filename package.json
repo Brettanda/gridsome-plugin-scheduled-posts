@@ -15,8 +15,7 @@
     "scheduled posts"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "description": "This plugin hides posts that have a post date in the future.",
   "bugs": {
