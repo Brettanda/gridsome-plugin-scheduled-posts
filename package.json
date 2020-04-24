@@ -1,0 +1,15 @@
+{
+  "name": "@gridsome/plugin-scheduled-posts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Brett Anda",
+  "homepage": "https://github.com/Brettanda/plugin-scheduled-posts#readme",
+  "repository": "https://github.com/Brettanda/plugin-scheduled-posts",
+  "license": "MIT",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "schedule",
+    "posts"
+  ]
+}
