@@ -1,6 +1,6 @@
 {
   "name": "@brettanda/gridsome-plugin-scheduled-posts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "index.js",
   "author": "Brett Anda",
   "homepage": "https://github.com/Brettanda/gridsome-plugin-scheduled-posts#readme",
