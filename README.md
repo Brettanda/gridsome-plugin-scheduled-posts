@@ -3,15 +3,13 @@
 [![GitHub license](https://img.shields.io/github/license/Brettanda/gridsome-plugin-scheduled-posts)](https://github.com/Brettanda/gridsome-plugin-scheduled-posts/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FBrettanda%2Fgridsome-plugin-scheduled-posts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FBrettanda%2Fgridsome-plugin-scheduled-posts)
 
-This plugin hides posts that have a post date in the future.
+> Hide posts that have a post date in the future. This only runs on build and will require a rebuild to update
 
 ## Install
 
-```bash
-yarn add @brettanda/gridsome-plugin-scheduled-posts
-#or
-npm install @brettanda/gridsome-plugin-scheduled-posts
-```
+- `yarn add @brettanda/gridsome-plugin-scheduled-posts`
+
+- `npm install @brettanda/gridsome-plugin-scheduled-posts`
 
 ## Usage
 

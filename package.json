@@ -17,8 +17,15 @@
   "publishConfig": {
     "access": "public"
   },
+  "engines": {
+    "node": ">=10"
+  },
   "description": "This plugin hides posts that have a post date in the future.",
   "bugs": {
     "url": "https://github.com/Brettanda/gridsome-plugin-scheduled-posts/issues"
+  },
+  "peerDependencies": {
+    "gridsome": "^0.7.0",
+    "@gridsome/source-filesystem": "^0.6.2"
   }
 }
